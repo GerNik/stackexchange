@@ -1,0 +1,51 @@
+jacoco {
+    toolVersion = "0.8.3"
+    reportsDir = file("$buildDir/reports/coverage")
+}
+
+jacocoTestReport {
+    reports {
+        xml.enabled false
+        csv.enabled false
+        html.destination file("${buildDir}/reports/coverage")
+    }
+}
+test {
+    useJUnitPlatform()
+    jacoco {
+        append = false
+        destinationFile = file("$buildDir/jacoco/test.exec")
+    }
+}
+
+ext {
+    jacocoExclusion = [
+            'ru.gernik.stackexchange.StackExchangeApplication**',
+            'ru.gernik.stackexchange.configuration.**',
+            'ru.gernik.stackexchange.service.client.dto.**',
+    ]
+}
+
+jacocoTestCoverageVerification {
+    violationRules {
+        rule {
+            element = 'CLASS'
+			excludes = jacocoExclusion
+            limit {
+                counter = 'INSTRUCTION'
+                minimum = 0.7
+            }
+            limit {
+                counter = 'METHOD'
+                minimum = 0.8
+            }
+            limit {
+                counter = 'BRANCH'
+                minimum = 0.8
+            }
+        }
+    }
+}
+
+test.finalizedBy jacocoTestReport
+check.dependsOn jacocoTestCoverageVerification
