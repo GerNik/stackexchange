@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: "StackExchangeApplication"
+    description: "Application description"
+
+swagger:
+  context:
+    root: ""

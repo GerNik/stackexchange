@@ -1,0 +1,769 @@
+{
+  "items": [
+    {
+      "tags": [
+        "java"
+      ],
+      "owner": {
+        "reputation": 1,
+        "user_id": 11217044,
+        "user_type": "registered",
+        "profile_image": "https://i.stack.imgur.com/jZPzS.png?s=128&g=1",
+        "display_name": "Lolizer",
+        "link": "https://stackoverflow.com/users/11217044/lolizer"
+      },
+      "is_answered": false,
+      "view_count": 10,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1554668342,
+      "creation_date": 1554668325,
+      "last_edit_date": 1554668342,
+      "question_id": 55563297,
+      "link": "https://stackoverflow.com/questions/55563297/typeerror-form-set-is-not-a-function-java-cant-access-formdatas-functions",
+      "title": "&quot;TypeError: form.set is not a function&quot; Java can&#39;t access FormData&#39;s functions"
+    },
+    {
+      "tags": [
+        "java"
+      ],
+      "owner": {
+        "reputation": 1,
+        "user_id": 11325891,
+        "user_type": "registered",
+        "profile_image": "https://i.stack.imgur.com/lB1JP.jpg?s=128&g=1",
+        "display_name": "Riley Ngi",
+        "link": "https://stackoverflow.com/users/11325891/riley-ngi"
+      },
+      "is_answered": false,
+      "view_count": 14,
+      "closed_date": 1554665717,
+      "answer_count": 1,
+      "score": -1,
+      "last_activity_date": 1554668275,
+      "creation_date": 1554665573,
+      "question_id": 55562890,
+      "link": "https://stackoverflow.com/questions/55562890/java-string-scanner-if-statement-not-detecting-true-input",
+      "closed_reason": "duplicate",
+      "title": "Java String Scanner - If statement not detecting true input"
+    },
+    {
+      "tags": [
+        "java",
+        "sockets"
+      ],
+      "owner": {
+        "reputation": 15,
+        "user_id": 9391156,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg?sz=128",
+        "display_name": "Tushar Yadav",
+        "link": "https://stackoverflow.com/users/9391156/tushar-yadav"
+      },
+      "is_answered": false,
+      "view_count": 30,
+      "answer_count": 2,
+      "score": 0,
+      "last_activity_date": 1554668096,
+      "creation_date": 1554584998,
+      "question_id": 55553503,
+      "link": "https://stackoverflow.com/questions/55553503/java-sockets-how-to-send-multiple-files-from-client-based-on-an-event-to-serve",
+      "title": "Java Sockets : How to send multiple files from client based on an event to server"
+    },
+    {
+      "tags": [
+        "java",
+        "nio"
+      ],
+      "owner": {
+        "reputation": 38,
+        "user_id": 1955151,
+        "user_type": "registered",
+        "accept_rate": 75,
+        "profile_image": "https://www.gravatar.com/avatar/a8e50eff1be60c4a19945234f930fcb0?s=128&d=identicon&r=PG",
+        "display_name": "Chandru",
+        "link": "https://stackoverflow.com/users/1955151/chandru"
+      },
+      "is_answered": false,
+      "view_count": 12,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1554668009,
+      "creation_date": 1554667515,
+      "question_id": 55563184,
+      "link": "https://stackoverflow.com/questions/55563184/java-watchservice-how-to-find-the-directory-where-the-file-was-created",
+      "title": "Java watchservice, how to find the directory where the file was created?"
+    },
+    {
+      "tags": [
+        "java",
+        "exception",
+        "reflection",
+        "try-catch"
+      ],
+      "owner": {
+        "reputation": 1,
+        "user_id": 11081054,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/ea1f0340b4b7c999eed1e3370b1b251b?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Satish Tikyani",
+        "link": "https://stackoverflow.com/users/11081054/satish-tikyani"
+      },
+      "is_answered": false,
+      "view_count": 8,
+      "answer_count": 0,
+      "score": -2,
+      "last_activity_date": 1554667300,
+      "creation_date": 1554667300,
+      "question_id": 55563148,
+      "link": "https://stackoverflow.com/questions/55563148/how-to-find-out-how-many-catch-blocks-i-have-in-a-method-in-a-java-class-and-wh",
+      "title": "How to find out how many catch blocks, I have in a method in a java class and what exception they catch"
+    },
+    {
+      "tags": [
+        "java",
+        "memory",
+        "heap",
+        "heap-memory"
+      ],
+      "owner": {
+        "reputation": 7,
+        "user_id": 10001253,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/be72c7d5f434f99d888953a9990cdbf6?s=128&d=identicon&r=PG&f=1",
+        "display_name": "user10001253",
+        "link": "https://stackoverflow.com/users/10001253/user10001253"
+      },
+      "is_answered": false,
+      "view_count": 17,
+      "answer_count": 0,
+      "score": -1,
+      "last_activity_date": 1554667054,
+      "creation_date": 1554664433,
+      "last_edit_date": 1554667054,
+      "question_id": 55562700,
+      "link": "https://stackoverflow.com/questions/55562700/how-to-lessen-memory-usage-when-using-many-arrayslists-in-java",
+      "title": "How to lessen memory usage when using many ArraysLists in Java"
+    },
+    {
+      "tags": [
+        "java",
+        "hibernate",
+        "inheritance",
+        "constructor"
+      ],
+      "owner": {
+        "reputation": 2962,
+        "user_id": 3987161,
+        "user_type": "registered",
+        "accept_rate": 57,
+        "profile_image": "https://www.gravatar.com/avatar/31ec69192b720bb2698f543f3c84cbe8?s=128&d=identicon&r=PG&f=1",
+        "display_name": "user_mda",
+        "link": "https://stackoverflow.com/users/3987161/user-mda"
+      },
+      "is_answered": true,
+      "view_count": 118,
+      "bounty_amount": 50,
+      "bounty_closes_date": 1554732805,
+      "answer_count": 3,
+      "score": 1,
+      "last_activity_date": 1554666035,
+      "creation_date": 1553873035,
+      "last_edit_date": 1553882291,
+      "question_id": 55420657,
+      "link": "https://stackoverflow.com/questions/55420657/inheritance-with-java-and-hibernate-typecasting-on-updates",
+      "title": "Inheritance with Java and Hibernate - Typecasting on updates"
+    },
+    {
+      "tags": [
+        "r",
+        "rstudio",
+        "rjava"
+      ],
+      "owner": {
+        "reputation": 1,
+        "user_id": 7201984,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/0ff4233de31b316471fa8ce896fac852?s=128&d=identicon&r=PG&f=1",
+        "display_name": "user7201984",
+        "link": "https://stackoverflow.com/users/7201984/user7201984"
+      },
+      "is_answered": false,
+      "view_count": 5,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1554666029,
+      "creation_date": 1554666029,
+      "question_id": 55562957,
+      "link": "https://stackoverflow.com/questions/55562957/java-exception-occurred-during-rjava-bootstrap",
+      "title": "&quot;Java exception occurred during rJava bootstrap&quot;"
+    },
+    {
+      "tags": [
+        "java",
+        "printf"
+      ],
+      "owner": {
+        "reputation": 130,
+        "user_id": 1499257,
+        "user_type": "registered",
+        "accept_rate": 57,
+        "profile_image": "https://i.stack.imgur.com/VsB4L.jpg?s=128&g=1",
+        "display_name": "Blimeo",
+        "link": "https://stackoverflow.com/users/1499257/blimeo"
+      },
+      "is_answered": true,
+      "view_count": 29338,
+      "accepted_answer_id": 15075915,
+      "answer_count": 1,
+      "score": 12,
+      "last_activity_date": 1554665015,
+      "creation_date": 1361824210,
+      "last_edit_date": 1554665015,
+      "question_id": 15075899,
+      "link": "https://stackoverflow.com/questions/15075899/left-aligning-with-printf-in-java",
+      "title": "Left-aligning with printf in Java"
+    },
+    {
+      "tags": [
+        "java",
+        "multithreading",
+        "thread-safety",
+        "synchronized",
+        "reentrantlock"
+      ],
+      "owner": {
+        "reputation": 118,
+        "user_id": 8242557,
+        "user_type": "registered",
+        "profile_image": "https://i.stack.imgur.com/eyWRa.png?s=128&g=1",
+        "display_name": "pr0f3ss",
+        "link": "https://stackoverflow.com/users/8242557/pr0f3ss"
+      },
+      "is_answered": true,
+      "view_count": 47,
+      "answer_count": 3,
+      "score": 1,
+      "last_activity_date": 1554664927,
+      "creation_date": 1554562374,
+      "last_edit_date": 1554646718,
+      "question_id": 55550268,
+      "link": "https://stackoverflow.com/questions/55550268/locking-all-instances-of-a-class-in-java",
+      "title": "Locking all instances of a class in Java"
+    },
+    {
+      "tags": [
+        "java",
+        "eclipse"
+      ],
+      "owner": {
+        "reputation": 75,
+        "user_id": 8960867,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/37b43014e0531e5af12d85f6855af003?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Z.Szymon",
+        "link": "https://stackoverflow.com/users/8960867/z-szymon"
+      },
+      "is_answered": true,
+      "view_count": 20,
+      "accepted_answer_id": 55562747,
+      "answer_count": 1,
+      "score": -1,
+      "last_activity_date": 1554664690,
+      "creation_date": 1554663199,
+      "question_id": 55562524,
+      "link": "https://stackoverflow.com/questions/55562524/does-every-java-version-come-in-both-32-and-64-bit-version",
+      "title": "Does every java version come in both: 32 and 64 bit version?"
+    },
+    {
+      "tags": [
+        "java",
+        "oop",
+        "inheritance",
+        "serialization",
+        "objectoutputstream"
+      ],
+      "owner": {
+        "reputation": 1,
+        "user_id": 10985519,
+        "user_type": "registered",
+        "profile_image": "https://lh5.googleusercontent.com/-aK5cx-aDZBo/AAAAAAAAAAI/AAAAAAAAAIM/GhKZd2hK42k/photo.jpg?sz=128",
+        "display_name": "XYZ",
+        "link": "https://stackoverflow.com/users/10985519/xyz"
+      },
+      "is_answered": false,
+      "view_count": 20,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1554664588,
+      "creation_date": 1554660903,
+      "question_id": 55562208,
+      "link": "https://stackoverflow.com/questions/55562208/is-making-no-attribute-using-inheritance-proper-design-causing-trouble-in-seria",
+      "title": "Is making no attribute using inheritance proper design? Causing trouble in Serialization. Java"
+    },
+    {
+      "tags": [
+        "java",
+        "arraylist",
+        "linked-list",
+        "time-complexity"
+      ],
+      "owner": {
+        "reputation": 1620,
+        "user_id": 1181847,
+        "user_type": "registered",
+        "accept_rate": 98,
+        "profile_image": "https://www.gravatar.com/avatar/6aa478a20133fae6f279cb7dfaf09815?s=128&d=identicon&r=PG",
+        "display_name": "FranXh",
+        "link": "https://stackoverflow.com/users/1181847/franxh"
+      },
+      "is_answered": true,
+      "view_count": 18098,
+      "accepted_answer_id": 9253470,
+      "answer_count": 3,
+      "score": 2,
+      "last_activity_date": 1554664233,
+      "creation_date": 1329086713,
+      "question_id": 9253421,
+      "link": "https://stackoverflow.com/questions/9253421/time-complexity-in-java",
+      "title": "Time complexity in Java"
+    },
+    {
+      "tags": [
+        "java",
+        "html",
+        "jsp",
+        "mp3"
+      ],
+      "owner": {
+        "reputation": 6,
+        "user_id": 3278081,
+        "user_type": "registered",
+        "profile_image": "https://graph.facebook.com/1327968838/picture?type=large",
+        "display_name": "CapDoge",
+        "link": "https://stackoverflow.com/users/3278081/capdoge"
+      },
+      "is_answered": false,
+      "view_count": 2438,
+      "answer_count": 1,
+      "score": 1,
+      "last_activity_date": 1554663885,
+      "creation_date": 1391665490,
+      "last_edit_date": 1554663885,
+      "question_id": 21594979,
+      "link": "https://stackoverflow.com/questions/21594979/how-to-play-mp3-from-a-browser-with-java-code-and-jsp",
+      "title": "How to play MP3 from a browser with Java code and JSP?"
+    },
+    {
+      "tags": [
+        "java",
+        "unit-testing",
+        "testing",
+        "junit",
+        "mockito"
+      ],
+      "owner": {
+        "reputation": 847,
+        "user_id": 4883694,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://www.gravatar.com/avatar/19aab20caaebac571dffddc9f6e0a55e?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Techiee",
+        "link": "https://stackoverflow.com/users/4883694/techiee"
+      },
+      "is_answered": true,
+      "view_count": 46,
+      "accepted_answer_id": 55562552,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1554663474,
+      "creation_date": 1554443523,
+      "last_edit_date": 1554663474,
+      "question_id": 55528967,
+      "link": "https://stackoverflow.com/questions/55528967/unit-test-equals-method-that-covers-both-the-branches-in-java",
+      "title": "Unit Test Equals Method that covers both the branches in Java"
+    },
+    {
+      "tags": [
+        "java"
+      ],
+      "owner": {
+        "reputation": 17,
+        "user_id": 9359808,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/894b9e753c48319a0124bf99dad80d3b?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Ваня Пупко",
+        "link": "https://stackoverflow.com/users/9359808/%d0%92%d0%b0%d0%bd%d1%8f-%d0%9f%d1%83%d0%bf%d0%ba%d0%be"
+      },
+      "is_answered": true,
+      "view_count": 122,
+      "closed_date": 1520163949,
+      "accepted_answer_id": 49087315,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1554663010,
+      "creation_date": 1520098839,
+      "last_edit_date": 1554663010,
+      "question_id": 49087195,
+      "link": "https://stackoverflow.com/questions/49087195/how-to-load-native-java-library",
+      "closed_reason": "duplicate",
+      "title": "how to load native java library"
+    },
+    {
+      "tags": [
+        "java",
+        "apache-spark"
+      ],
+      "owner": {
+        "reputation": 1,
+        "user_id": 11324328,
+        "user_type": "registered",
+        "profile_image": "https://lh5.googleusercontent.com/-Hr-qKgUicLo/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rd2KwRRUbU5ZxZI9wvzOylc3mX9RA/mo/photo.jpg?sz=128",
+        "display_name": "Payal Bansal",
+        "link": "https://stackoverflow.com/users/11324328/payal-bansal"
+      },
+      "is_answered": false,
+      "view_count": 20,
+      "answer_count": 1,
+      "score": -1,
+      "last_activity_date": 1554662919,
+      "creation_date": 1554635828,
+      "last_edit_date": 1554662919,
+      "question_id": 55558396,
+      "link": "https://stackoverflow.com/questions/55558396/handling-null-values-in-spark-using-only-java-rdd",
+      "title": "Handling null values in spark using only java rdd"
+    },
+    {
+      "tags": [
+        "java",
+        "android",
+        "python",
+        "opencv",
+        "image-processing"
+      ],
+      "owner": {
+        "reputation": 1,
+        "user_id": 8894153,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/be72493e6cb7b847862771f743b3a84d?s=128&d=identicon&r=PG",
+        "display_name": "user8894153",
+        "link": "https://stackoverflow.com/users/8894153/user8894153"
+      },
+      "is_answered": false,
+      "view_count": 9,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1554662809,
+      "creation_date": 1554662809,
+      "question_id": 55562461,
+      "link": "https://stackoverflow.com/questions/55562461/port-from-python-code-opencv-to-java-android",
+      "title": "Port from python code (opencv) to java (android)"
+    },
+    {
+      "tags": [
+        "java"
+      ],
+      "owner": {
+        "reputation": 987,
+        "user_id": 4856898,
+        "user_type": "registered",
+        "accept_rate": 67,
+        "profile_image": "https://graph.facebook.com/607685609333951/picture?type=large",
+        "display_name": "Harvey Fletcher",
+        "link": "https://stackoverflow.com/users/4856898/harvey-fletcher"
+      },
+      "is_answered": true,
+      "view_count": 134,
+      "answer_count": 2,
+      "score": 1,
+      "last_activity_date": 1554662685,
+      "creation_date": 1518430848,
+      "last_edit_date": 1554662685,
+      "question_id": 48744094,
+      "link": "https://stackoverflow.com/questions/48744094/interface-returning-null-in-java",
+      "title": "Interface returning null in java"
+    },
+    {
+      "tags": [
+        "java"
+      ],
+      "owner": {
+        "reputation": 462,
+        "user_id": 3157309,
+        "user_type": "registered",
+        "accept_rate": 59,
+        "profile_image": "https://www.gravatar.com/avatar/d9a7b4edadabe55f3b7cccfbe7e33e15?s=128&d=identicon&r=PG&f=1",
+        "display_name": "dev_marshell08",
+        "link": "https://stackoverflow.com/users/3157309/dev-marshell08"
+      },
+      "is_answered": true,
+      "view_count": 5590,
+      "accepted_answer_id": 22244371,
+      "answer_count": 3,
+      "score": 2,
+      "last_activity_date": 1554662107,
+      "creation_date": 1394177858,
+      "question_id": 22244233,
+      "link": "https://stackoverflow.com/questions/22244233/how-to-replace-all-special-characters-except-for-underscore-and-numbers-in-java",
+      "title": "How to replace all special characters except for underscore and numbers in java?"
+    },
+    {
+      "tags": [
+        "java",
+        "android",
+        "hashmap"
+      ],
+      "owner": {
+        "reputation": 4,
+        "user_id": 11281364,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/ff0a3729a2d2caa840fc612c308e9893?s=128&d=identicon&r=PG&f=1",
+        "display_name": "heroxxx",
+        "link": "https://stackoverflow.com/users/11281364/heroxxx"
+      },
+      "is_answered": false,
+      "view_count": 18,
+      "closed_date": 1554661634,
+      "answer_count": 0,
+      "score": -1,
+      "last_activity_date": 1554661574,
+      "creation_date": 1554661471,
+      "last_edit_date": 1554661574,
+      "question_id": 55562298,
+      "link": "https://stackoverflow.com/questions/55562298/how-can-i-get-the-key-from-a-hashmap-in-java-if-we-knows-its-value",
+      "closed_reason": "duplicate",
+      "title": "How can I get the key from a hashmap in java if we knows its value?"
+    },
+    {
+      "tags": [
+        "java",
+        "android"
+      ],
+      "owner": {
+        "reputation": 2075,
+        "user_id": 422859,
+        "user_type": "registered",
+        "accept_rate": 71,
+        "profile_image": "https://www.gravatar.com/avatar/c201a40a21e2beeb710af0f7212c29b7?s=128&d=identicon&r=PG",
+        "display_name": "David Brown",
+        "link": "https://stackoverflow.com/users/422859/david-brown"
+      },
+      "is_answered": true,
+      "view_count": 3419,
+      "accepted_answer_id": 3633933,
+      "answer_count": 6,
+      "score": 1,
+      "last_activity_date": 1554661545,
+      "creation_date": 1283499906,
+      "last_edit_date": 1551523424,
+      "question_id": 3633868,
+      "link": "https://stackoverflow.com/questions/3633868/util-class-in-java",
+      "title": "Util Class in Java"
+    },
+    {
+      "tags": [
+        "android"
+      ],
+      "owner": {
+        "reputation": 170,
+        "user_id": 5428805,
+        "user_type": "registered",
+        "accept_rate": 75,
+        "profile_image": "https://www.gravatar.com/avatar/216584aa85d4d9e23eee03aefd9b96b9?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Daniel Orozco",
+        "link": "https://stackoverflow.com/users/5428805/daniel-orozco"
+      },
+      "is_answered": true,
+      "view_count": 1030,
+      "answer_count": 3,
+      "score": 0,
+      "last_activity_date": 1554661530,
+      "creation_date": 1444423347,
+      "question_id": 33046838,
+      "link": "https://stackoverflow.com/questions/33046838/appintro-android-library-how-can-i-use-fragments-with-its-xml-and-java",
+      "title": "AppIntro Android Library. How can i use fragments with its xml and .java?"
+    },
+    {
+      "tags": [
+        "java",
+        "java-stream"
+      ],
+      "owner": {
+        "reputation": 865,
+        "user_id": 7759514,
+        "user_type": "registered",
+        "accept_rate": 61,
+        "profile_image": "https://i.stack.imgur.com/EGYzO.png?s=128&g=1",
+        "display_name": "Tobiq",
+        "link": "https://stackoverflow.com/users/7759514/tobiq"
+      },
+      "is_answered": false,
+      "view_count": 25,
+      "closed_date": 1554661246,
+      "answer_count": 0,
+      "score": -1,
+      "last_activity_date": 1554661300,
+      "creation_date": 1554660851,
+      "last_edit_date": 1554661300,
+      "question_id": 55562198,
+      "link": "https://stackoverflow.com/questions/55562198/why-dont-java-streams-throw-exceptions",
+      "closed_reason": "duplicate",
+      "title": "Why don&#39;t Java streams throw exceptions?"
+    },
+    {
+      "tags": [
+        "java",
+        "gradle",
+        "compiler-errors",
+        "java-9"
+      ],
+      "owner": {
+        "reputation": 1254,
+        "user_id": 1240649,
+        "user_type": "registered",
+        "accept_rate": 75,
+        "profile_image": "https://www.gravatar.com/avatar/35a6f4ba2c16792398851d1db61fc9c9?s=128&d=identicon&r=PG",
+        "display_name": "Wayneio",
+        "link": "https://stackoverflow.com/users/1240649/wayneio"
+      },
+      "is_answered": false,
+      "view_count": 262,
+      "answer_count": 2,
+      "score": 2,
+      "last_activity_date": 1554661284,
+      "creation_date": 1523283175,
+      "question_id": 49735061,
+      "link": "https://stackoverflow.com/questions/49735061/java-9-release-flag-doesnt-appear-to-be-working-in-gradle",
+      "title": "Java 9 --release flag doesn&#39;t appear to be working in Gradle"
+    },
+    {
+      "tags": [
+        "java",
+        "python",
+        "command",
+        "jsch"
+      ],
+      "owner": {
+        "reputation": 19,
+        "user_id": 2771322,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/207e132deb54270bb485c9a38deab8cb?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Pavan608",
+        "link": "https://stackoverflow.com/users/2771322/pavan608"
+      },
+      "is_answered": false,
+      "view_count": 13,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1554661150,
+      "creation_date": 1554661150,
+      "question_id": 55562250,
+      "link": "https://stackoverflow.com/questions/55562250/execute-python-code-in-java-using-streams-and-jsch-ssh",
+      "title": "Execute python code in Java using streams and JSCH (SSH)"
+    },
+    {
+      "tags": [
+        "java",
+        "android",
+        "ftp-client"
+      ],
+      "owner": {
+        "reputation": 36,
+        "user_id": 10199599,
+        "user_type": "registered",
+        "profile_image": "https://lh5.googleusercontent.com/-Js8WdAPzAx0/AAAAAAAAAAI/AAAAAAAAAaY/Y6WGO15W2Co/photo.jpg?sz=128",
+        "display_name": "Le codeur Etudiant",
+        "link": "https://stackoverflow.com/users/10199599/le-codeur-etudiant"
+      },
+      "is_answered": false,
+      "view_count": 21,
+      "closed_date": 1554650404,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1554661040,
+      "creation_date": 1554572052,
+      "last_edit_date": 1554661040,
+      "question_id": 55551702,
+      "link": "https://stackoverflow.com/questions/55551702/i-cant-connect-to-host-of-my-ftp-server-with-ftpclient-in-java-android",
+      "closed_reason": "duplicate",
+      "title": "I can&#39;t connect to host of my FTP server with FTPClient in Java-Android"
+    },
+    {
+      "tags": [
+        "java",
+        "gradle",
+        "compilation"
+      ],
+      "owner": {
+        "reputation": 1080,
+        "user_id": 6735993,
+        "user_type": "registered",
+        "accept_rate": 93,
+        "profile_image": "https://lh6.googleusercontent.com/-4VUOVvCKbP4/AAAAAAAAAAI/AAAAAAAAADM/bX54ajsqcOE/photo.jpg?sz=128",
+        "display_name": "Hypnic Jerk",
+        "link": "https://stackoverflow.com/users/6735993/hypnic-jerk"
+      },
+      "is_answered": false,
+      "view_count": 24,
+      "answer_count": 2,
+      "score": 0,
+      "last_activity_date": 1554660650,
+      "creation_date": 1550076218,
+      "question_id": 54675324,
+      "link": "https://stackoverflow.com/questions/54675324/compile-java-codebase-into-10-and-8-with-gradle",
+      "title": "Compile Java codebase into 10 and 8 with Gradle"
+    },
+    {
+      "tags": [
+        "java",
+        "yield",
+        "yield-return"
+      ],
+      "owner": {
+        "reputation": 91885,
+        "user_id": 11236,
+        "user_type": "registered",
+        "accept_rate": 76,
+        "profile_image": "https://www.gravatar.com/avatar/40656706454dcbdbcec125b85b01f1e4?s=128&d=identicon&r=PG",
+        "display_name": "ripper234",
+        "link": "https://stackoverflow.com/users/11236/ripper234"
+      },
+      "is_answered": true,
+      "view_count": 29999,
+      "accepted_answer_id": 17167174,
+      "answer_count": 6,
+      "score": 101,
+      "last_activity_date": 1554660515,
+      "creation_date": 1262189315,
+      "last_edit_date": 1262197687,
+      "question_id": 1980953,
+      "link": "https://stackoverflow.com/questions/1980953/is-there-a-java-equivalent-to-cs-yield-keyword",
+      "title": "Is there a Java equivalent to C#&#39;s &#39;yield&#39; keyword?"
+    },
+    {
+      "tags": [
+        "java"
+      ],
+      "owner": {
+        "reputation": 1,
+        "user_id": 11325628,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/bb1958a486ec93172c5486b85107daae?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Confusion",
+        "link": "https://stackoverflow.com/users/11325628/confusion"
+      },
+      "is_answered": false,
+      "view_count": 11,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1554660166,
+      "creation_date": 1554660166,
+      "question_id": 55562085,
+      "link": "https://stackoverflow.com/questions/55562085/swing-timer-is-not-starting-in-a-java-gui",
+      "title": "Swing Timer is not starting in a Java GUI"
+    }
+  ],
+  "has_more": true,
+  "quota_max": 10000,
+  "quota_remaining": 9999
+}
