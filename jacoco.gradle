@@ -23,6 +23,9 @@ ext {
             'ru.gernik.stackexchange.StackExchangeApplication**',
             'ru.gernik.stackexchange.configuration.**',
             'ru.gernik.stackexchange.service.client.dto.**',
+            'ru.gernik.stackexchange.controller.dto.**',
+            'ru.gernik.stackexchange.controller.converter.**',
+            'ru.gernik.stackexchange.service.client.exception.**',
     ]
 }
 

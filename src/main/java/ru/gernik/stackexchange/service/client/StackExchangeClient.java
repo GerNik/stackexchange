@@ -8,7 +8,7 @@ import ru.gernik.stackexchange.service.client.dto.StackExchangeResponse;
 @FeignClient(value = "stack-exchange-api", url = "${stackexchange.endpoint}")
 public interface StackExchangeClient {
 
-    @GetMapping("/search")
+    @GetMapping(path = "/search")
     StackExchangeResponse search(@RequestParam("key") String key,
                                  @RequestParam("order") String order,
                                  @RequestParam("sort") String sort,
