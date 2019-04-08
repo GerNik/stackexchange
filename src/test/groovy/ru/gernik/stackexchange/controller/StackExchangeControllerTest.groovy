@@ -32,4 +32,23 @@ class StackExchangeControllerTest extends BaseTest{
         then:
         response.andExpect(status().is(HttpStatus.OK.value()))
     }
+
+    @Test
+    void "should return internal error response" () {
+        given:
+        stubFor(get(urlPathMatching('/search'))
+                .withQueryParam('key', equalTo('testkeyQwE1#)-'))
+                .withQueryParam('order', equalTo('desc'))
+                .withQueryParam('sort', equalTo('activity'))
+                .withQueryParam('site', equalTo('stackoverflow'))
+                .withQueryParam('intitle', equalTo('java'))
+                .willReturn(
+                        aResponse().withStatus(500)))
+        when:
+        def response = mockMvc.perform(MockMvcRequestBuilders.get("/search")
+                .param("query", "java"))
+
+        then:
+        response.andExpect(status().is(HttpStatus.INTERNAL_SERVER_ERROR.value()))
+    }
 }

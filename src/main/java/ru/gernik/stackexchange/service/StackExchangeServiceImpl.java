@@ -15,6 +15,6 @@ public class StackExchangeServiceImpl implements StackExchangeService {
 
     @Override
     public StackExchangeResponse search(String query) {
-        return stackExchangeClient.search(commonProperties.getKey(), "desc", "activity", "stackoverflow", query);
+        return stackExchangeClient.search(commonProperties.getKey(), "desc", "activity", "stackoverflow", "default", query);
     }
 }

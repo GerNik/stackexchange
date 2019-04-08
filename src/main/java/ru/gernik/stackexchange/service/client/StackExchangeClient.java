@@ -13,5 +13,6 @@ public interface StackExchangeClient {
                                  @RequestParam("order") String order,
                                  @RequestParam("sort") String sort,
                                  @RequestParam("site") String site,
+                                 @RequestParam("filter") String filter,
                                  @RequestParam("intitle") String inTitle);
 }
