@@ -5,10 +5,12 @@ import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
+import java.io.Serializable;
+
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
-public class Owner {
+public class Owner implements Serializable {
     @JsonProperty("profile_image")
     private String profileImage;
     @JsonProperty("user_type")

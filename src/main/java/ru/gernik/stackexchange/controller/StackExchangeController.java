@@ -18,7 +18,7 @@ public class StackExchangeController {
 
     @ApiOperation("Search for topics on the site stackoverflow")
     @GetMapping("/search")
-    public SearchResponse search(@RequestParam String query) {
+    public SearchResponse search(@RequestParam("query") String query) {
         return responseConverter.toSearchResponse(stackExchangeService.search(query));
     }
 }

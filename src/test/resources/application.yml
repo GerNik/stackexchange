@@ -2,3 +2,7 @@ stackexchange.endpoint: localhost:${wiremock.server.port}
 
 common:
   key: "testkeyQwE1#)-"
+
+spring:
+  cache:
+    type: redis

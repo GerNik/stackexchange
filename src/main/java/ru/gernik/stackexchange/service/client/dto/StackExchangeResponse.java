@@ -5,12 +5,13 @@ import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
+import java.io.Serializable;
 import java.util.List;
 
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
-public class StackExchangeResponse {
+public class StackExchangeResponse implements Serializable {
     @JsonProperty("quota_max")
     private Integer quotaMax;
     @JsonProperty("quota_remaining")
