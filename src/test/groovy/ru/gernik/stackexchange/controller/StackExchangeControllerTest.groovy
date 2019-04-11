@@ -21,6 +21,7 @@ class StackExchangeControllerTest extends BaseTest {
                 .withQueryParam('order', equalTo('desc'))
                 .withQueryParam('sort', equalTo('activity'))
                 .withQueryParam('site', equalTo('stackoverflow'))
+                .withQueryParam('filter', equalTo('default'))
                 .withQueryParam('intitle', equalTo('java'))
                 .willReturn(
                         aResponse().withStatus(200)
@@ -28,9 +29,17 @@ class StackExchangeControllerTest extends BaseTest {
                                 .withBody(getFileByName("StackoverflowSearchResponse.json").getText())))
         when:
         def response = mockMvc.perform(MockMvcRequestBuilders.get("/search")
-                .param("query", "java"))
+                .param("query", "java")
+                .param("sort", "activity")
+                .param("site", "stackoverflow")
+                .param("filter", "default")
+                .param("order", "desc"))
         def response2 = mockMvc.perform(MockMvcRequestBuilders.get("/search")
-                .param("query", "java"))
+                .param("query", "java")
+                .param("sort", "activity")
+                .param("site", "stackoverflow")
+                .param("filter", "default")
+                .param("order", "desc"))
 
 
         then:
@@ -53,7 +62,11 @@ class StackExchangeControllerTest extends BaseTest {
                         aResponse().withStatus(500)))
         when:
         def response = mockMvc.perform(MockMvcRequestBuilders.get("/search")
-                .param("query", "spring"))
+                .param("query", "spring")
+                .param("sort", "activity")
+                .param("site", "stackoverflow")
+                .param("filter", "default")
+                .param("order", "desc"))
 
         then:
         response.andExpect(status().is(HttpStatus.INTERNAL_SERVER_ERROR.value()))

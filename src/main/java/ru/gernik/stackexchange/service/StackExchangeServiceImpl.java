@@ -7,6 +7,7 @@ import org.springframework.stereotype.Service;
 import ru.gernik.stackexchange.configuration.CommonProperties;
 import ru.gernik.stackexchange.service.client.StackExchangeClient;
 import ru.gernik.stackexchange.service.client.dto.StackExchangeResponse;
+import ru.gernik.stackexchange.service.dto.SearchRequest;
 
 @Slf4j
 @Service
@@ -16,9 +17,11 @@ public class StackExchangeServiceImpl implements StackExchangeService {
     private final StackExchangeClient stackExchangeClient;
     private final CommonProperties commonProperties;
 
-    @Cacheable(value = "searcn", key = "#query")
+    @Cacheable("search")
     @Override
-    public StackExchangeResponse search(String query) {
-        return stackExchangeClient.search(commonProperties.getKey(), "desc", "activity", "stackoverflow", "default", query);
+    public StackExchangeResponse search(SearchRequest request) {
+        return stackExchangeClient.search(commonProperties.getKey(), request.getOrder(),
+                request.getSort(), request.getSite(),
+                request.getFilter(), request.getQuery());
     }
 }
