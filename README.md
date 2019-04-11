@@ -9,5 +9,5 @@ Example of middleware for calling third-party API
 
 `docker-compose -f docker-compose.dev.yml up`
 
-#### Swagger interface
+#### Swagger UI
 - http://localhost:8080/swagger-ui.html#/ 
